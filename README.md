@@ -1,4 +1,4 @@
-# Phexon-s-ASM-IDE
+# Phexon's ASM IDE
 This C# program will use NASM and visual studio to compile, assemble and run .asm files. If you have any problems contact me at info@phexon.uk
 
 # How to use
