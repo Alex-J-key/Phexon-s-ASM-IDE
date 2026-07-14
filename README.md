@@ -2,7 +2,7 @@
 This C# program will use NASM and visual studio to compile, assemble and run .asm files. If you have any problems contact me at info@phexon.uk
 
 # How to use
-Open Program.cs with Visual Studio 2022. Compile the program by pressing F5.
+Open a new console project with Visual Studio 2022 and paste the Program.cs code into there. Compile the program by pressing F5.
 To create a project press 1 and then Enter - This will create a project folder on your desktop.
 Once you've created a project you can open it then edit the .asm.
 After creating your .asm you can compile & link the assembly code.
