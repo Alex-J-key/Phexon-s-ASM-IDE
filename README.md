@@ -8,6 +8,10 @@ Once you've created a project you can open it then edit the .asm.
 After creating your .asm you can compile & link the assembly code.
 And then run the .exe.
 
+# Testing
+To test if it is working there are two examples of this shown as  ASSEMBLY_PROJ_Console_Window and ASSEMBLY_PROJ_Basic_Window. Try to compile and run the .asm!
+
+
 # Requirements
 * Windows 10/11 (64-bit)
 * .NET SDK (8.0 or later recommended)
